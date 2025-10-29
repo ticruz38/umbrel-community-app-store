@@ -1,22 +1,17 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Test
-tagline: Replace this tagline with your app's tagline
+id: nutscash
+name: Nutscash
+tagline: Stop being someone else's bitch
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
+  Take back the control on your digital identity. Nutscash is using Nostr to let you self host your digital identity.
 
-
-  You can also add newlines!
-
-  test
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: The candy poets
+website: https://alpha.nuts.cash
+submitter: The candy poets
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues

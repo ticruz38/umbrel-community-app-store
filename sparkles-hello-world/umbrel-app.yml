@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
+name: Test
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
@@ -11,6 +11,8 @@ description: >-
 
 
   You can also add newlines!
+
+  test
 
 developer: Umbrel
 website: https://umbrel.com
